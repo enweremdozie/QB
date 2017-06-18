@@ -156,16 +156,6 @@ public class NewBehaviorScript: MonoBehaviour {
 						StartCoroutine (wait (prevSwipe, LayerDist));
 					}
 
-
-
-
-
-
-
-
-
-
-
 					else if (!swipedSideways && deltaY > 0){//swipe down
 						prevSwipe = 4;
 						camPosition = 3;
