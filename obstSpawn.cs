@@ -24,16 +24,11 @@ public class obstSpawn : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-		
-		
-		
+			
 	}
 	
 	
 	void createObst(int rand) {
-		
-		
 		GameObject obstacle;
 
 		print (random + " was selected");
